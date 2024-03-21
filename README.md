@@ -1,2 +1,2 @@
 # GenAI
-Aspect Based Sentiment Analysis for a demo data 
+Aspect-Based Sentiment Analysis for Consumer Electronic Data 
